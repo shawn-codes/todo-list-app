@@ -8,7 +8,8 @@
 }
 
 body {
-  background: #3271a8;
+  /* background: #3271a8; */
+  background: #c5aeff;
   display: flex;
   justify-content: center;
   align-items: center;
