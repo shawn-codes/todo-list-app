@@ -8,8 +8,7 @@
 }
 
 body {
-  /* background: #3271a8; */
-  background: lightcyan;
+  background: #3271a8;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -20,7 +19,8 @@ body {
 }
 
 h1 {
-  color: #fff;
+  /* color: #fff; */
+  color: #222;
   margin-bottom: 0.5rem;
   font-size: 1.75rem;
 }
